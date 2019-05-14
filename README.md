@@ -67,4 +67,4 @@ The power of JS in the browser is amazing. You can respond to user interactions,
       console.log('I have been clicked!')
     })
     ```
-See the [GitHub repo here]() for the code examples we wrote in class!
+See the [GitHub repo here](https://github.com/martinlaws/intro-to-js-in-the-browser) for the code examples we wrote in class!
