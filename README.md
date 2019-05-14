@@ -1,5 +1,5 @@
 # Welcome to Front End Development!
-I'm biased - and FED is awesome. The power of JS in the browser is amazing. You can respond to user interactions, fetch content from servers/APIs (your own or other people's), build complex interfaces (even games!), and almost anything else you can imagine. Best of all, the client-side JS ecosystem is evolving at light speed. We're only going to scratch the surface today.
+The power of JS in the browser is amazing. You can respond to user interactions, fetch content from servers/APIs (your own or other people's), build complex interfaces (even games!), and almost anything else you can imagine. Best of all, the client-side JS ecosystem is evolving at light speed. We're only going to scratch the surface today.
 
 ## What we talked about
 1. Google Chrome devtools
@@ -12,7 +12,7 @@ I'm biased - and FED is awesome. The power of JS in the browser is amazing. You 
     - Global variables
     - Browsing history (`window.history.back()` is the code equivalent of hitting the back button)
     - Pretty much anything you can do to the browser tab, you can do using the `window` object. Even `window.close()`!
-1. [document]()
+1. [document](https://developer.mozilla.org/en-US/docs/Web/API/Document)
     - This is the [DOM (Document Object Model)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
     > The Document Object Model (DOM) is the data representation of the objects that comprise the structure and content of a document on the web... the DOM represents an HTML or XML document in memory. (via MDN)
     - We can `query` for elements on the page by selector (preferrably `id` or `class`), 
